@@ -1,4 +1,4 @@
-# Enhancement Two: Algorithms and Data Structure
+# Enhancement Two: Algorithms and Data Structures
 
 ## **Introduction:**
 
