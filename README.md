@@ -61,4 +61,4 @@ This enhancement aligns with several course outcomes:
 - [Enhancement One](https://github.com/aricmoore/Enhancement-One-Design)
 - [Enhancement Three](https://github.com/aricmoore/Enhancement-Three-Design)
 
-<sub>© 2026 Arielle Moore. All rights reserved. | CS 360: Mobile Architecture and Programming – Inventory Application | View my [portfolio](https://aricmoore.github.io/) for more projects.</sub>
+<sub>© 2026 Arielle Moore. All rights reserved. | CS 499: Computer Science Capstone | View my [portfolio](https://aricmoore.github.io/) for more projects.</sub>
